@@ -1,0 +1,66 @@
+< let ,>
+< id , 1 >
+< int ,>
+< puntoycoma ,>
+< let ,>
+< id , 2 >
+< int ,>
+< puntoycoma ,>
+< let ,>
+< id , 3 >
+< bool ,>
+< puntoycoma ,>
+< id , 1 >
+< igual ,>
+< constint , 3 >
+< puntoycoma ,>
+< id , 2 >
+< igual ,>
+< id , 1 >
+< puntoycoma ,>
+< let ,>
+< id , 4 >
+< int ,>
+< puntoycoma ,>
+< let ,>
+< id , 5 >
+< st ,>
+< puntoycoma ,>
+< let ,>
+< id , 6 >
+< bool ,>
+< puntoycoma ,>
+< id , 4 >
+< igual ,>
+< constint , 55 >
+< puntoycoma ,>
+< let ,>
+< id , 7 >
+< bool ,>
+< puntoycoma ,>
+< id , 7 >
+< igual ,>
+< id , 1 >
+< menor ,>
+< id , 2 >
+< puntoycoma ,>
+< if ,>
+< abreparent ,>
+< id , 7 >
+< cierraparent ,>
+< id , 2 >
+< asignresto ,>
+< constint , 3333 >
+< puntoycoma ,>
+< id , 1 >
+< igual ,>
+< id , 1 >
+< mod ,>
+< id , 2 >
+< puntoycoma ,>
+< put ,>
+< id , 1 >
+< puntoycoma ,>
+< put ,>
+< id , 2 >
+< puntoycoma ,>

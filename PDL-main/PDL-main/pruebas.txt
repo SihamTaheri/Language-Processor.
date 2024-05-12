@@ -1,0 +1,6 @@
+let b int;
+let a bool;
+
+while(a){
+let c int;
+}
